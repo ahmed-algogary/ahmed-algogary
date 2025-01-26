@@ -5,16 +5,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA++%26+Testing+Engineer+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 **QA & Software Test Engineer.**
+- 🏢 I am a programmer student at almdrasa website*
   <br>
-- 👨‍💻 **Graduated from ITI 9-month diploma.**
+-   As a python student ,I'm learning new technologies to improve my skills.**
   <br>
-- 🌱 **ISTQB Foundation Level Certified Tester (CTFL-MAT)**
+- 🌱 I have nine programming certificates from Almdrasa's website**
   <br>
-- 💬 **Skills: Manual Testing, Test Automation(Selenium with Java, RestAssured, Postman), JMeter, API Testing, and more.**
+- 💬 My skills is in Python , Html and css.
   <br>
-- 👨‍💻 **Bachelor of Navigation Science from the Faculty of Navigation Science and Space Technology Beni_Suef
-      University. OCT 2018 - May 2023**
+- 👨‍💻 I have ten monthes experience in programming , most of them was learning python features
 
 
 <br><br>
@@ -24,7 +23,7 @@
 <br><br>
 
 #### **Programming and Scripting Languages**  
-![Java](https://img.shields.io/badge/-Java-%23F05032?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![SQL](https://img.shields.io/badge/-SQL-%234169E1?style=flat-square&logo=mysql&logoColor=white)  
+![python](https://img.shields.io/badge/-Java-%23F05032?style=flat-square&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-%234169E1?style=flat-square&logo=mysql&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 ---
