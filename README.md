@@ -23,7 +23,7 @@
 <br><br>
 
 #### **Programming and Scripting Languages**  
-![python](https://img.shields.io/badge/-python-%23F05032?style=flat-square&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-%234169E1?style=flat-square&logo=mysql&logoColor=white)  
+![python](https://img.shields.io/badge/-python-%23F05032?style=flat-square&logo=python&logoColor=white)   
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 ---
