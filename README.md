@@ -5,15 +5,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA++%26+Testing+Engineer+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-- 🏢 I am a programmer student at almdrasa website*
-  <br>
--   As a python student ,I'm learning new technologies to improve my skills.
-  <br>
-- 🌱 I have nine programming certificates from Almdrasa's website**
-  <br>
-- 💬 My skills is in Python , Html and css.
-  <br>
-- 👨‍💻 I have more than one year experience in programming , mostly in learning python features
+Hi! I'm Ahmed Baher Fouad, a passionate programming student from Egypt 🇪🇬, currently learning Python at Almdrasa. I love turning ideas into real projects and improving my skills every day.
+
+🏫 I'm a dedicated student with over one year of programming experience.
+
+🌱 I've earned 9 programming certificates from Almdrasa's website.
+
+💻 My main skills are in Python, HTML, and CSS.
+
+🚀 I'm always exploring new technologies and building projects like weather apps, text editors, and simple games.
+
+🔧 I believe in improving little by little, making each project better than the last.
+
+Thanks for visiting my profile—feel free to check out my repositories and follow my journey!
 
 
 <br><br>
