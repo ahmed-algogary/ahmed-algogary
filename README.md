@@ -56,8 +56,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samarsalh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Baher" height="30" width="40" /></a>
-<a href="https://www.whatsapp.com/maybe.good.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed Baher" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samarsalh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Baher" height="30" width="40" /></a>
+<a href="[https://www.whatsapp.com/maybe.good.35/](https://web.whatsapp.com/)" target="_blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://www.bing.com/images/search?view=detailV2&ccid=GOxWWwPy&id=7D34D7C77CCED84CEC9890A44DA4810D7650433F&thid=OIP.GOxWWwPy-60orP0PSlXLBQHaHa&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F016%2F716%2F480%2Foriginal%2Fwhatsapp-icon-free-png.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.18ec565b03f2fbad28acfd0f4a55cb05%3Frik%3DP0NQdg2BpE2kkA%26pid%3DImgRaw%26r%3D0&exph=1920&expw=1920&q=Whats+App+Icon.png&simid=608034342299310230&FORM=IRPRST&ck=37C0EA2CBCB657D3AF203A3B527F238C&selectedIndex=0&itb=1&cw=1085&ch=536&ajaxhist=0&ajaxserp=0)" alt="Ahmed Baher" height="30" width="40" /></a>
 
 <br>
 <br>
