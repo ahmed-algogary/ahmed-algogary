@@ -60,7 +60,7 @@ Thanks for visiting my profile—feel free to check out my repositories and foll
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samarsalh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Baher" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-baher-48b73b376/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Baher" height="30" width="40" /></a>
 <a href="https://web.whatsapp.com/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/480/original/whatsapp-icon-free-png.png" height="32.5" width="38" /></a>
 
 <br>
