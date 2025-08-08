@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+QA++%26+Testing+Engineer+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+%20+Backend+beginner+%20+developer+.;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
 Hi! I'm Ahmed Baher Fouad, a passionate programming student from Egypt 🇪🇬, currently learning Python at Almdrasa. I love turning ideas into real projects and improving my skills every day.
