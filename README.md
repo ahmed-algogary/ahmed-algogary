@@ -7,13 +7,13 @@
 
 - 🏢 I am a programmer student at almdrasa website*
   <br>
--   As a python student ,I'm learning new technologies to improve my skills.**
+-   As a python student ,I'm learning new technologies to improve my skills.
   <br>
 - 🌱 I have nine programming certificates from Almdrasa's website**
   <br>
 - 💬 My skills is in Python , Html and css.
   <br>
-- 👨‍💻 I have ten monthes experience in programming , most of them was learning python features
+- 👨‍💻 I have more than one year experience in programming , mostly in learning python features
 
 
 <br><br>
@@ -56,8 +56,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samarsalh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ibrahim Elsaeed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/maybe.good.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samar saleh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samarsalh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Baher" height="30" width="40" /></a>
+<a href="https://www.whatsapp.com/maybe.good.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmed Baher" height="30" width="40" /></a>
 
 <br>
 <br>
